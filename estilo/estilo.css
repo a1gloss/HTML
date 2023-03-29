@@ -1,0 +1,87 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+
+
+body{
+    
+    
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:#F7F1E5 ;
+}
+
+
+h1	{
+    
+   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    margin-top: 50px;
+    text-align: center;
+
+
+}
+.cabecalho{
+    
+    width: 100%;
+    height: 450px;
+    background-color:#4E31AA;
+    margin-top: -2px;
+    box-shadow: 10px 10px 10px gray;
+}
+
+#cachorro{
+
+
+        text-align: center;
+        margin-top: -422px;
+        margin-bottom: 100px;
+
+
+}
+
+
+h2{
+   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:10;
+    font-size: 50px;
+    margin-top: 50px;
+    text-align: center;
+
+}
+    
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+}
+#gato{
+
+
+    text-align: center;
+    padding: 50px;
+
+
+}
+
+
+footer{
+
+   
+    font-weight: bold;
+    text-align: center;
+    background-color: #9E4784  ;
+    padding: 2%;
+
+}
+
